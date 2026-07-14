@@ -40,7 +40,7 @@
 Open to conversations on data science, biotech-ML crossover, or collaborative projects.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kartikey-dwivedi-00519828a?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 </p>
 
 ---
