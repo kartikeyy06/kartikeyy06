@@ -2,7 +2,7 @@
 <h3 align="center">Data Science student bridging biotech and machine learning</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kartikey-dwivedi-00519828a?utm_source=share_via&utm_content=profile&utm_medium=member_android]">
+  <a href="https://www.linkedin.com/in/kartikey-dwivedi-00519828a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
